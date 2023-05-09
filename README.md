@@ -9,7 +9,7 @@ Greetings to my fellow Technology Advocates and Specialists.
 | __SPEAKERS DETAILS:-__ |
 | --------- |
 
-| __Name of the Speaker__ |  __Organisation Name__ |  __Designation__ |  __Profile__ | 
+| __Speaker Name__ |  __Organisation Name__ |  __Designation__ |  __Profile__ | 
 | --------- |  --------- | --------- | --------- |
 | Adrian Senn |  Axpo  | Senior Machine Learning Engineer | https://www.alpinsolar.ch/content/axpo19/ch/en/about-us/lightboxes/adrian-senn.html |
 | Arindam Mitra |  Axpo  | Senior IT Infrastructure Specialist | https://www.linkedin.com/in/arindam-mitra-28981095/ |
@@ -24,7 +24,7 @@ Greetings to my fellow Technology Advocates and Specialists.
 
 | __DURATION OF THE SPEAKER SESSION:-__ |
 | --------- |
-| __45 MIns__ |
+| __45 Mins__ |
 
 | __VENUE:-__ |
 | --------- |
@@ -38,4 +38,21 @@ Greetings to my fellow Technology Advocates and Specialists.
 | --------- |
 | ![Sponsors](https://github.com/arindam0310018/11-May-2023_Azure-Bootcamp-2023/assets/29681063/b3d77a63-bb4b-4164-886b-b3df30057909) |
 
+| __PRESENTATION OBJECTIVES:-__ |
+| --------- |
+
+| __#__ | __TOPICS__ |
+| --------- | --------- |
+
+| __DEMO TOPICS:-__ |
+| --------- |
+
+| __#__ | __CATEGORY__ | __REPOSITORY__ |
+| --------- | --------- | --------- |
+| 1. | Azure Devops Pipeiines Templates | https://github.com/arindam0310018/06-July-2022-DevOps__Publish-Terraform-Plan-In-DevOps-GUI-Using-Pipeline-Templates |
+| 2. | Sample Automation for Use Case Onboarding: Setup and configure DevOps Project | https://github.com/arindam0310018/08-Apr-2022-DevOps__Power-Of-DevOps-CLI-And-REST-API |
+| 3. | Sample Automation for Use Case Onboarding: Service Connection | https://github.com/arindam0310018/10-Apr-2023-DevOps__Setup-Az-Container-Registry-Service-Connection |
+| 4. | Sample Automation for Use Case Onboarding: Entitlement Management - Catalog and Access Packages | https://github.com/arindam0310018/24-Feb-2023-Microsoft-Graph-Powershell_Create-Catalog-AccessPackage-Roles-Policies |
+| 5. | Replace Token | - |
+| 6. | Azure Devops SSH Authentication with Terraform Modules  | - |
 
