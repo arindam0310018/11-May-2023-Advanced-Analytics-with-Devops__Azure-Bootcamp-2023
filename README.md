@@ -57,3 +57,6 @@ Greetings to my fellow Technology Advocates and Specialists.
 | 5. | Replace Token | - |
 | 6. | Azure Devops SSH Authentication with Terraform Modules  | - |
 
+__Hope You Enjoyed the Session!!!__
+
+__Stay Safe | Keep Learning | Spread Knowledge__
