@@ -44,6 +44,24 @@ Greetings to my fellow Technology Advocates and Specialists.
 
 | __#__ | __TOPICS__ |
 | --------- | --------- |
+| 1. | Our Business Areas |
+| 2. | Trading and Sales  |
+| 3. | Portfolio  |
+| 4. | Why Advanced Analytics ? |
+| 5. | Analytics at Axpo |
+| 6. | Ideas in a complex world |
+| 7. | Physical power trading: Intraday |
+| 8. | Adjust to new situation fast |
+| 9. | Current Models: Facts and Figures |
+| 10. | Azure Architecture |
+| 11. | Devops in Advanced Analytics |
+| 12. | Pipeline Templates |
+| 13. | Multiple Environment – Replace Token |
+| 14. | Devops SSH with Terraform Modules |
+| 15. | How we Onboard Usecase ? |
+| 16. | Demo Workflow |
+| 17. | Gratitude |
+
 
 | __DEMO TOPICS:-__ |
 | --------- |
