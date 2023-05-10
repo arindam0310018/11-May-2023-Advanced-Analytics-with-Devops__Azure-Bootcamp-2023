@@ -74,6 +74,7 @@ Greetings to my fellow Technology Advocates and Specialists.
 | 4. | Sample Automation for Use Case Onboarding: Entitlement Management - Catalog and Access Packages | https://github.com/arindam0310018/24-Feb-2023-Microsoft-Graph-Powershell_Create-Catalog-AccessPackage-Roles-Policies |
 | 5. | Replace Token | - |
 | 6. | Azure Devops SSH Authentication with Terraform Modules  | - |
+| 7. | Advanced Analytics with Azure Devops Dojo  | - |
 
 __Hope You Enjoyed the Session!!!__
 
