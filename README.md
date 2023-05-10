@@ -11,8 +11,9 @@ Greetings to my fellow Technology Advocates and Specialists.
 
 | __Speaker Name__ |  __Organisation Name__ |  __Designation__ |  __Profile__ | 
 | --------- |  --------- | --------- | --------- |
-| Adrian Senn |  Axpo  | Senior Machine Learning Engineer | https://www.alpinsolar.ch/content/axpo19/ch/en/about-us/lightboxes/adrian-senn.html |
 | Arindam Mitra |  Axpo  | Senior IT Infrastructure Specialist | https://www.linkedin.com/in/arindam-mitra-28981095/ |
+| Adrian Senn |  Axpo  | Senior Machine Learning Engineer | https://www.alpinsolar.ch/content/axpo19/ch/en/about-us/lightboxes/adrian-senn.html |
+
 
 | __SPEAKERS EXCERPT:-__ |
 | --------- |
